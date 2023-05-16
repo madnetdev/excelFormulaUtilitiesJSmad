@@ -15,7 +15,8 @@
     }
   ],
   "repository": {
-    "url": "git://github.com/joshatjben/excelFormulaUtilitiesJS.git"
+    "type": "git",
+    "url": "git://github.com/madnetdev/excelFormulaUtilitiesJS.git"
   },
   "keyword": [
     "excel",
