@@ -1,6 +1,6 @@
 {
   "author": "Josh Bennett (http://joshbennett.me/)",
-  "name": "excel-formula",
+  "name": "excel-formula-mad",
   "description": "Methods to beautify an excel formula and convert it to JavaScript or C#",
   "version": "1.5.0",
   "homepage": "http://excelformulabeautifier.com/",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/madnetdev/excelFormulaUtilitiesJS.git"
+    "url": "git://github.com/madnetdev/excelFormulaUtilitiesJSmad.git"
   },
   "keyword": [
     "excel",
